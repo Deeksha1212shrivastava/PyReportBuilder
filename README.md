@@ -1,5 +1,3 @@
-# PyReportBuilder
-
 Python Tkinter Application with Login, Signup, and Home Windows
 This repository contains a Python Tkinter application that provides a user-friendly interface with essential features such as login, signup, and home windows. It is designed to streamline user authentication and navigation within the application.
 
